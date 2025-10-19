@@ -1,8 +1,4 @@
----
-icon: globe
-cover: https://i.ibb.co/s9mZ7G7C/cover01.png
-coverY: 0
----
+
 
 # Sphere HUB
 
@@ -14,10 +10,10 @@ coverY: 0
 
 ### Links
 
-[Official Website](https://spherehub.io)\
-[X (Twitter)](https://x.com/SphereHUB_io)\
-Discord - coming soon\
-Github - coming soon\
+[Official Website](https://spherehub.io)
+[X (Twitter)](https://x.com/SphereHUB_io)
+Discord - coming soon
+
 
 
 ***
