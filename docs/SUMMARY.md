@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Sphere HUB](README.md)
+  * [Dashboard](home/dashboard.md)
+  * [Portfolio](home/portfolio.md)
+  * [Launchpad](home/launchpad.md)
+  * [Marketplace](home/marketplace.md)
+  * [Lend & Borrow](home/lend-and-borrow.md)
+  * [Staking](home/staking.md)
+  * [DEX](home/dex.md)
+  * [Rewards](home/rewards.md)
+* [Sphere HUB NFT](sphere-hub-nft/README.md)
+  * [NFT Benefits](sphere-hub-nft/nft-benefits.md)
+  * [Whitelist](sphere-hub-nft/whitelist.md)
+  * [Mint details](sphere-hub-nft/mint-details.md)
+* [FAQ](faq.md)
